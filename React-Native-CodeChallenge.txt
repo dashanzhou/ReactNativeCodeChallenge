@@ -13,7 +13,7 @@ logo image, draw date, draw number and jackpack value (Div1Amount).
 
 4. The application should have at least 2 unit testing cases built in. 
 
-5. The App needs to have 1 mobile native feature, like GPS function to show the user location in jackpot display page, or utilizing camera function for scanning something, or smart phone voice feature to say jackpack prize value.
+5. The App needs to have 1 mobile native feature, like GPS function to show the user location in jackpot display page, or utilizing camera function for scanning something or take a selfie, or smart phone voice feature to say jackpack prize value.
 
 6. The code needs to be committed into your github account with a bit readme document including the setup instructions from a fresh new environment. 
 

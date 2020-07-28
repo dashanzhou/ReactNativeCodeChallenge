@@ -1,0 +1,24 @@
+This is a code challenge to build simple React Native Mobile application to display a Lottery Draw and jackpot information.
+Languages selections: React Native
+Requirements:
+1. The application will need to connect web api endpoint:
+https://data.api.thelott.com/sales/vmax/web/data/lotto/latestresults to display the draw results, dividend 
+or  
+https://data.api.thelott.com/sales/vmax/web/data/lotto/opendraws to get the lotto draw data and jackpot data, 
+
+2. The products display should at least have OZlotto, Gold Lotto and Powerball.
+
+3. The information display in the mobile App requires to at least have Lottery product display name, 
+logo image, draw date, draw number and jackpack value (Div1Amount). 
+
+4. The application should have at least 2 unit testing cases built in. 
+
+5. The App needs to have 1 mobile native feature, like GPS function to show the user location in jackpot display page, or utilizing camera function for scanning something, or smart phone voice feature to say jackpack prize value.
+
+6. The code needs to be committed into your github account with a bit readme document including the setup instructions from a fresh new environment. 
+
+7. Please refer the data api document for the usage of post request:
+- Latest Results: http://media.thelott.com/documentations/IData/Methods/GetLatestLotteriesResults.html
+- Open Draws: http://media.thelott.com/documentations/IData/Methods/GetOpenLotteriesDraws.html
+
+8. If possible, to make the app compile version to be downloadable from web or contact me via email for file transfer. 
